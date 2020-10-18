@@ -1,0 +1,15 @@
+{
+    "toys": [{
+            "id": 1,
+            "brand": "Hasbro",
+            "material": "plastic",
+            "price": "499"
+    },
+        {
+            "id": 2,
+            "brand": "Babylon",
+            "material": "wood",
+            "price": "599"
+        }
+    ]
+}
